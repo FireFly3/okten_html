@@ -1,0 +1,30 @@
+.title {
+    color: #ec932a;
+    text-align: center;
+    background-color: beige;
+}
+
+img {
+    width: 400px;
+}
+
+.block_title {
+    text-align: center;
+    color: aqua;
+    background-color: bisque;
+}
+
+.block_text {
+    color: aqua;
+    background-color: #ec932a;
+}
+
+.popular_title {
+    color: blue;
+    background-color: burlywood;
+}
+
+.list {
+    color: aquamarine;
+    background-color: black;
+}
