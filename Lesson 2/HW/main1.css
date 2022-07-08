@@ -1,0 +1,36 @@
+.list {
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+}
+
+.block {
+    border: 1px solid #8c8a8a;
+    height: 300px;
+    width: 250px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.title {
+    font-size: 22px;
+
+}
+
+.info {
+color: #8c8a8a;
+}
+
+.bottom {
+    border: 1px solid black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
