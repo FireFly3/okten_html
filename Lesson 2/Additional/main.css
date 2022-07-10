@@ -5,7 +5,7 @@
     justify-content: center;
     width: 900px;
     height: 500px;
-    background-color: red;
+    background-color: #34cb9e;
     row-gap: 25px;
 }
 
@@ -24,7 +24,7 @@
 }
 
 .block_img {
-    color: red;
+    color: #34cb9e;
     font-size: 40px;
     padding: 10px;
 }
@@ -37,17 +37,16 @@
 
 .block_photo {
     width: 50px;
-
     margin-left: 38%;
-
 }
 
 .block_name {
-    color: aliceblue;
+    color: #34cb9e;
 }
 
 img {
     width: 50px;
+    height: 50px;
     border-radius: 50%;
     margin: 0 auto;
 }
